@@ -16,7 +16,7 @@
 		</style> 
 	`;
 
-	class ColoredBox extends HTMLElement {
+	class ColoredBox1 extends HTMLElement {
 		constructor() {
 <script src="https://cdn.cai.tools.sap/webchat/webchat.js"
 channelId="2fbb9ee6-f5ef-45f3-b39f-57a3f9d28dce"
@@ -39,7 +39,7 @@ id="cai-webchat"
 		}
 	}
 
-	customElements.define("com-sap-sample-coloredbox", ColoredBox);
+	
 })();
 
 </body>
